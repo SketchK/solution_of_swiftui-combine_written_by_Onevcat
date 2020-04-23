@@ -25,4 +25,4 @@ c. SwiftUI 使用了大量 Swift 5.1 的特性来简化语法和降低学习难�
 
 d. 在 SwiftUI 中，我们使用 MVC 和 Target-Action 等开发范式来组织数据流动。
 
-答案：d，在 SwiftUI 中使用响应式编程框架 Combine 和函数式的编程思想来组织数据流动。
+> 答案：d，在 SwiftUI 中使用响应式编程框架 Combine 和函数式的编程思想来组织数据流动。
